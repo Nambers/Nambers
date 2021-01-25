@@ -8,6 +8,9 @@ Hi :wink:
 ![](https://img.shields.io/badge/-Python-blue?style=flat-square&logo=Python&logoColor=fff)
 ![](https://img.shields.io/badge/-Html5-red?style=flat-square&logo=Html5&logoColor=fff)
 
+![](https://img.shields.io/badge/-Kotlin-orange?style=flat-square&logo=Kotlin&logoColor=fff)
+![](https://img.shields.io/badge/-Java-ab7221?style=flat-square&logo=Java&logoColor=fff)
+
 ![](https://img.shields.io/badge/-C++-darkblue?style=flat-square&logo=C%2B%2B&logoColor=fff)
 ![](https://img.shields.io/badge/-Unity-black?style=flat-square&logo=Unity&logoColor=fff)
 
