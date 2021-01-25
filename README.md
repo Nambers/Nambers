@@ -1,7 +1,8 @@
-Hi :wink:
-<a href="https://github.com/anuraghazra/github-readme-stats"><img align="right" src="https://github-readme-stats.vercel.app/api?theme=vue&include_all_commits=true&username=Nambers&show_icons=true"></a>
+Hi~ o(*￣▽￣*)ブ
 
-欢迎阅读[我的博客](https://blog.csdn.net/qq_40832960)
+<a href="https://github.com/anuraghazra/github-readme-stats"><img align="right" src="https://github-readme-stats.vercel.app/api?theme=vue&include_all_commits=true&username=Nambers&show_icons=true&hide_border=true"></a>
+
+欢迎访问[我的博客](https://blog.csdn.net/qq_40832960)
 
 常用的整活语言:
 
