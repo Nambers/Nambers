@@ -10,6 +10,8 @@ Welcome to [my BLOG](https://blog.csdn.net/qq_40832960)
 
 Common using language:
 
+<a href="https://github.com/anuraghazra/github-readme-stats"><img align="right" src="https://github-readme-stats.vercel.app/api?theme=vue&include_all_commits=true&username=Nambers&show_icons=true&hide_border=true"></a>
+
 ![](https://img.shields.io/badge/-Python-blue?style=flat-square&logo=Python&logoColor=fff)
 ![](https://img.shields.io/badge/-Html5-red?style=flat-square&logo=Html5&logoColor=fff)
 
@@ -21,5 +23,3 @@ Common using language:
 
 ![Vister](https://visitor-badge.glitch.me/badge?page_id=Nambers.Nambers.readme)
 <!--[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Nambers)](https://github.com/anuraghazra/github-readme-stats)-->
-
-<a href="https://github.com/anuraghazra/github-readme-stats"><img align="right" src="https://github-readme-stats.vercel.app/api?theme=vue&include_all_commits=true&username=Nambers&show_icons=true&hide_border=true"></a>
