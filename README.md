@@ -21,5 +21,5 @@ Common using language:
 ![](https://img.shields.io/badge/-C++-darkblue?style=flat-square&logo=C%2B%2B&logoColor=fff)
 ![](https://img.shields.io/badge/-Unity-black?style=flat-square&logo=Unity&logoColor=fff)
 
-![Vister](https://visitor-badge.glitch.me/badge?page_id=Nambers.Nambers.readme)
+![[Vister num, plz refresh](https://www.google.com/search?q=YOU+GET+THE+EXTRA+SCREEN&oq=YOU+GET+THE+EXTRA+SCREEN)](https://visitor-badge.glitch.me/badge?page_id=Nambers.Nambers.readme)
 <!--[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Nambers)](https://github.com/anuraghazra/github-readme-stats)-->
