@@ -10,7 +10,7 @@ Welcome to my [**BLOG**](https://blog.csdn.net/qq_40832960)
 
 <a href="https://github.com/anuraghazra/github-readme-stats"><img align="right" src="https://github-readme-stats.vercel.app/api?theme=vue&include_all_commits=true&username=Nambers&show_icons=true&hide_border=true"></a>
 
-### Common using language:
+### Common using languages:
 
 ![](https://img.shields.io/badge/-Python-blue?style=flat-square&logo=Python&logoColor=fff)
 ![](https://img.shields.io/badge/-Html5-red?style=flat-square&logo=Html5&logoColor=fff)
