@@ -2,7 +2,7 @@
 
 Hi~ o(*￣▽￣*)ブ
 
-This name mean the "rainbow" in Latin
+This name is "rainbow" in Latin
 
 Welcome to my [**BLOG**](https://blog.csdn.net/qq_40832960)
 
