@@ -2,9 +2,9 @@
 
 Hi~ o(*￣▽￣*)ブ
 
-This name means rainbow in the Latin
+- This name means rainbow in the Latin
 
-Welcome to my [**BLOG**](https://blog.csdn.net/qq_40832960)
+- Welcome to my [**BLOG**](https://eritque-arcus.tech)
 
 ---
 
