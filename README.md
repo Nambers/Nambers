@@ -6,6 +6,10 @@ This name means rainbow in the Latin
 
 Welcome to my [**BLOG**](https://eritque-arcus.tech)
 
+Location: China
+
+Pronouns: he
+
 ---
 
 <a href="https://github.com/anuraghazra/github-readme-stats"><img align="right" src="https://github-readme-stats.vercel.app/api?theme=vue&include_all_commits=true&username=Nambers&show_icons=true&hide_border=true"></a>
