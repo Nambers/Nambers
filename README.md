@@ -4,11 +4,13 @@ Hi~ o(*￣▽￣*)ブ
 
 This name means rainbow in the Latin
 
-Welcome to my [**BLOG**](https://eritque-arcus.tech)
+- Location: China
 
-Location: China
+- Pronouns: he
 
-Pronouns: he
+- [**BLOG**](https://eritque-arcus.tech)
+
+- support [utf8 everywhere](http://utf8everywhere.org/zh-cn)
 
 ---
 
