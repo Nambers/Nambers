@@ -16,6 +16,11 @@ This name means rainbow in the Latin
 
 ---
 
+### Focusing projects
+| 💡 Projects | ⭐ Stars | 📚 Commits | 🛎 Issues|
+|   :-----:   |  :-----:  |  :----:  |  :-----: |
+| [MiraiCP](https://github.com/Nambers/MiraiCP) | ![GitHub stars](https://img.shields.io/github/stars/Nambers/MiraiCP) | ![GitHub commits since tagged version (branch)](https://img.shields.io/github/commits-since/nambers/miraicp/v0.1.0) | ![GitHub issues](https://img.shields.io/github/issues/Nambers/MiraiCP) |
+
 <a href="https://github.com/anuraghazra/github-readme-stats"><img align="right" src="https://github-readme-stats.vercel.app/api?theme=vue&include_all_commits=true&username=Nambers&show_icons=true&hide_border=true"></a>
 
 ### Common using languages:
