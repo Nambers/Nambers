@@ -13,6 +13,8 @@ This name means rainbow in the Latin
 ---
 
 ### Focusing projects
+<img align="right" src="https://github.com/Nambers/githubStar/blob/master/generated/overview.svg">
+
 | 💡 Projects | ⭐ Stars | 🛎 Issues|
 |   :-----:   |  :-----:  |  :-----: |
 | [MiraiCP](https://github.com/Nambers/MiraiCP) | ![GitHub stars](https://img.shields.io/github/stars/Nambers/MiraiCP) |  ![GitHub issues](https://img.shields.io/github/issues/Nambers/MiraiCP) |
@@ -20,8 +22,8 @@ This name means rainbow in the Latin
 
 <!--- <a href="https://github.com/anuraghazra/github-readme-stats"><img align="right" src="https://github-readme-stats.vercel.app/api?theme=vue&include_all_commits=true&username=Nambers&show_icons=true&hide_border=true"></a> --->
 
-### Common using languages:
 
+### Common using languages:
 ![](https://img.shields.io/badge/-Kotlin-orange?style=flat-square&logo=Kotlin&logoColor=fff)
 ![](https://img.shields.io/badge/-C++-darkblue?style=flat-square&logo=C%2B%2B&logoColor=fff)
 ![](https://img.shields.io/badge/-Python-blue?style=flat-square&logo=Python&logoColor=fff)
