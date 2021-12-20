@@ -1,14 +1,14 @@
 # Hi, here is Eritque arcus
 
-<img src="https://github.com/Nambers/Nambers/blob/main/steamuserimages-a.akamaihd.jpg" align="right"/>
 Hi~ o(*￣▽￣*)ブ
 
 This name means rainbow in the Latin
 
 - Location: China
 - Pronouns: he
-- Website: [**BLOG**](https://eritque-arcus.tech)
-- Plan to learn: ML
+- Website: [blog](https://eritque-arcus.tech)
+- Avatar: [pixiv](https://www.pixiv.net/artworks/89345687)
+- Plan to learn: Machine learning
 - Don't like dynamic typed lang *(like python)* unless using for internet or machine learning.
 
 ---
