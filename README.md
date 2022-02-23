@@ -7,7 +7,7 @@ This name means rainbow in the Latin
 - Location: China
 - Pronouns: he
 - Website: [blog](https://eritque-arcus.tech)
-- Avatar: [pintertest](https://www.pinterest.com/pin/702631979373824323/)
+- Avatar:[pixiv](https://www.pixiv.net/artworks/94452976)
 - Plan to learn: Machine learning
 - Don't like dynamic typed lang *(like python)* unless using for internet or machine learning.
 
