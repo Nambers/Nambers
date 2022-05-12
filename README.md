@@ -14,7 +14,7 @@ This name means rainbow in the Latin
 ---
 
 ### Focusing projects
-<img align="right" src="https://github.com/Nambers/githubStar/blob/master/generated/overview.svg">
+<img align="right" src="https://raw.githubusercontent.com/Nambers/Nambers/main/github-metrics.svg">
 
 | 💡 Projects | ⭐ Stars | 🛎 Issues|
 |   :-----:   |  :-----:  |  :-----: |
