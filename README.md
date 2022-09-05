@@ -4,7 +4,7 @@ Hi~ o(*￣▽￣*)ブ
 
 This name means rainbow in the Latin
 
-- Location: China
+- Time zone: UTC-4
 - Pronouns: he
 - Website: [blog](https://eritque-arcus.tech)
 - Avatar:[pixiv](https://www.pixiv.net/artworks/94452976)
