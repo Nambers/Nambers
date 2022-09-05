@@ -8,7 +8,7 @@ This name means rainbow in the Latin
 - Pronouns: he
 - Website: [blog](https://eritque-arcus.tech)
 - Avatar:[pixiv](https://www.pixiv.net/artworks/94452976)
-- Plan to learn: Machine learning
+- Plan to learn: TBD
 - Don't like dynamic typed lang *(like python)* unless using for internet or machine learning.
 
 ---
