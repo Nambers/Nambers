@@ -7,9 +7,8 @@ This name means rainbow in the Latin
 - Time zone: UTC-4
 - Pronouns: he
 - Website: [blog](https://eritque-arcus.tech)
-- Avatar:[pixiv](https://www.pixiv.net/artworks/94452976)
-- Plan to learn: TBD
-- Don't like dynamic typed lang *(like python)* unless using for internet or machine learning.
+- Avatar: K-ON
+- Currently interested in: Cyber-security / some Math
 
 ---
 
