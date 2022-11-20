@@ -4,7 +4,6 @@ Hi~ o(*￣▽￣*)ブ
 
 This name means rainbow in the Latin
 
-- Time zone: UTC-4
 - Pronouns: he
 - Website: [blog](https://eritque-arcus.tech)
 - Avatar: K-ON
