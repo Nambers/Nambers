@@ -4,7 +4,7 @@ Hi~ o(*￣▽￣*)ブ
 
 This name means rainbow in the Latin
 
-- Pronouns: he
+- Pronouns: he / him or whatever you like
 - Website: [blog](https://eritque-arcus.tech)
 - Avatar: K-ON
 - Currently interested in: Cyber-security / some Math
