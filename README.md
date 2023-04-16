@@ -8,7 +8,7 @@ This name means rainbow in the Latin
 - Website: [blog](https://eritque-arcus.tech)
 - Avatar: K-ON
 - Currently interested in: Cyber-security / some Math
-- [gpg public key](https://eritque-arcus.tech/files/3R17QU34RCUS.pub)
+- [gpg public key](https://eritque-arcus.tech/files/3R17QU34RCUS.pub) `2ACC307C9004B207A7D56ECE04F7F9D6DB28AA09`
 ---
 
 ### Focusing projects
