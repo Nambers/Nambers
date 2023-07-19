@@ -33,5 +33,5 @@ This name means rainbow in the Latin
     <img src="https://github.githubassets.com/images/mona-loading-default.gif" width="7%"/>
   </a>
   <br/>
-  <span> Now loading...</span>
+  <span> One moment please... </span>
 </p>
