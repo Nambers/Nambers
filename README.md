@@ -26,3 +26,12 @@ This name means rainbow in the Latin
 ![](https://img.shields.io/badge/-Kotlin-orange?style=flat-square&logo=Kotlin&logoColor=fff)
 ![](https://img.shields.io/badge/-C++-darkblue?style=flat-square&logo=C%2B%2B&logoColor=fff)
 ![](https://img.shields.io/badge/-Python-blue?style=flat-square&logo=Python&logoColor=fff)
+
+### Priv Key:
+<p align="center">
+  <a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ">
+    <img src="https://github.githubassets.com/images/mona-loading-default.gif" width="7%"/>
+  </a>
+  <br/>
+  <span> Now loading...</span>
+</p>
