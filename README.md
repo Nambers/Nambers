@@ -8,7 +8,7 @@ This name means rainbow in the Latin
 - Website: [blog](https://eritque-arcus.tech)
 - Avatar: Bocchi the Rock!
 - Currently interested in: Cyber-security / some Math
-- [gpg public key](https://eritque-arcus.tech/files/3R17QU34RCUS.pub) `2ACC307C9004B207A7D56ECE04F7F9D6DB28AA09`
+- [gpg public key](https://eritque-arcus.tech/files/3R17QU34RCUS.pub) `9730B8A309873B06A6301855B95AA12EA8C8C3AE`
 ---
 
 ### Focusing projects
