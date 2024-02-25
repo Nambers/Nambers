@@ -24,7 +24,7 @@ jobs:
 
           # Options
           user: nambers
-          template: terminal
+          template: classic
           filename: github-metrics.svg
           base: header, activity, community, repositories, metadata
           # config_timezone: CST(CHINA STANDARD TIME)/GMT+8
