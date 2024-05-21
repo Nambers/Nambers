@@ -37,3 +37,6 @@ This name means rainbow in the Latin
   <br/>
   <span> One moment please... </span>
 </p>
+<br/><br/>
+<small style="font-variant: small-caps;">... And, what is this?! "", go fix your font :)</small>
+
