@@ -29,6 +29,10 @@ This name means rainbow in the Latin
 ![](https://img.shields.io/badge/-C++-darkblue?style=flat-square&logo=C%2B%2B&logoColor=fff)
 ![](https://img.shields.io/badge/-Python-blue?style=flat-square&logo=Python&logoColor=fff)
 
+### OSs
+![](https://img.shields.io/badge/-ArchLinux%20w/%20Hyprland-1793D1?style=flat-square&amp;logo=Arch-Linux&amp;logoColor=white)
+![](https://img.shields.io/badge/-Windows11-0078d6?style=flat-square&amp;logo=Windows)
+
 ### Priv Key:
 <p align="center">
   <a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ">
