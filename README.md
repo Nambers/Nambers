@@ -24,13 +24,14 @@ This name means rainbow in the Latin
 
 
 ### Common using languages:
-![](https://img.shields.io/badge/-Kotlin-orange?style=flat-square&logo=Kotlin&logoColor=fff)
-![](https://img.shields.io/badge/-C++-darkblue?style=flat-square&logo=C%2B%2B&logoColor=fff)
-![](https://img.shields.io/badge/-Python-blue?style=flat-square&logo=Python&logoColor=fff)
+[![C](https://img.shields.io/badge/C-00599C?logo=c&logoColor=white)](#)
+[![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=fff)](#)
+[![C++](https://img.shields.io/badge/C++-%2300599C.svg?logo=c%2B%2B&logoColor=white)](#)
+[![Kotlin](https://img.shields.io/badge/Kotlin-%237F52FF.svg?logo=kotlin&logoColor=white)](#)
 
 ### OSs
-![](https://img.shields.io/badge/-ArchLinux%20w/%20Hyprland-1793D1?style=flat-square&amp;logo=Arch-Linux&amp;logoColor=white)
-![](https://img.shields.io/badge/-Windows11-0078d6?style=flat-square&amp;logo=Windows)
+[![Arch Linux](https://img.shields.io/badge/ArchLinux%20w/%20Hyprland-1793D1?logo=arch-linux&logoColor=fff)](#)
+	[![Windows](https://custom-icon-badges.demolab.com/badge/Windows11-0078D6?logo=windows11&logoColor=white)](#)
 
 ### Priv Key:
 <p align="center">
