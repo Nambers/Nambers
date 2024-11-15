@@ -17,7 +17,7 @@ This name means rainbow in the Latin
 | 💡 Projects | ⭐ Stars | 🛎 Issues|
 |   :-----:   |  :-----:  |  :-----: |
 | [MIPS64](https://github.com/Nambers/MIPS64) | N/A | N/A |
-| [pyYYJSON](https://github.com/Antares0982/pyyjson)<br/>sucessor of [pyYYJSON](https://github.com/0ph1uch1/pyyjson) and [pyCJson](https://github.com/0ph1uch1/pycjson) | N/A | N/A |
+| [pyYYJSON](https://github.com/Antares0982/pyyjson),<br/>a sucessor of<br/>[pyYYJSON](https://github.com/0ph1uch1/pyyjson),<br/>[pyCJson](https://github.com/0ph1uch1/pycjson) | N/A | N/A |
 <!-- | [MiraiCP](https://github.com/Nambers/MiraiCP) | ![GitHub stars](https://img.shields.io/github/stars/Nambers/MiraiCP) |  ![GitHub issues](https://img.shields.io/github/issues/Nambers/MiraiCP) | -->
 <!--- [![wakatime](https://wakatime.com/badge/github/Nambers/MiraiCP.svg)](https://wakatime.com/badge/github/Nambers/MiraiCP)(since 2021/9/10) | --->
 
