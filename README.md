@@ -2,13 +2,11 @@
 
 Hi~ o(*￣▽￣*)ブ
 
-This name means rainbow in the Latin
-
-- Pronouns: he / him or whatever you like
-- Website: [blog](https://eritque-arcus.tech)
+- Pronouns: he / him
+- Website: [blog](https://ikuyo.dev)
 - Avatar: Bocchi the Rock!
-- Currently interested in: Cyber-security / some Math
-- [gpg public key](https://eritque-arcus.tech/files/3R17QU34RCUS.pub) `9730B8A309873B06A6301855B95AA12EA8C8C3AE`
+- Currently interested in: Cyber-security / hardware / some Math
+- [gpg public key](https://ikuyo.dev/files/3R17QU34RCUS.pub) `9730B8A309873B06A6301855B95AA12EA8C8C3AE`
 ---
 
 ### Focusing projects
