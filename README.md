@@ -4,7 +4,7 @@ Hi~ o(*￣▽￣*)ブ
 
 - Pronouns: he / him
 - Website: [blog](https://ikuyo.dev)
-- Avatar: Bocchi the Rock!
+- Avatar: [pixiv](https://www.pixiv.net/artworks/102723010)
 - Currently interested in: Cyber-security / hardware / some Math
 - [gpg public key](https://ikuyo.dev/files/3R17QU34RCUS.pub) `9730B8A309873B06A6301855B95AA12EA8C8C3AE`
 ---
