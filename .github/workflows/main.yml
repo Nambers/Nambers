@@ -32,7 +32,6 @@ jobs:
           user: Nambers
           template: classic
           base: header, activity, community, repositories, metadata
-          base_indepth: yes
           config_octicon: yes
           # config_timezone: CST(CHINA STANDARD TIME)/GMT+8
           config_timezone: America/Chicago
@@ -51,7 +50,6 @@ jobs:
           plugin_languages_categories: markup, programming
           plugin_languages_colors: github
           plugin_languages_details: percentage
-          plugin_languages_indepth: yes
           plugin_languages_limit: 8
           plugin_languages_other: yes
           plugin_languages_recent_categories: markup, programming
