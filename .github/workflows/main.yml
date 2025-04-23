@@ -5,9 +5,12 @@ on:
   schedule: [{cron: "0 0 * * 1"}]
   # Lines below let you run workflow manually and on each commit
   workflow_dispatch:
-  # push: {branches: ["master", "main"]}
+  push:
+    branches: ["main"]
+    paths:
+      - '.github/workflows/**'
 env:
-  skip_repos: Nambers.github.io, blogArchive, MiraiCP-docs, math-notes
+  skip_repos: Nambers.github.io, blogArchive, MiraiCP-docs, math-notes, blogArchive
 
 jobs:
   github-metrics:
