@@ -1,4 +1,4 @@
-# Hi, here is Eritque arcus
+## Hi, here is Eritque arcus
 
 Hi~ o(*￣▽￣*)ブ
 
@@ -10,7 +10,8 @@ Hi~ o(*￣▽￣*)ブ
 ---
 
 ### Focusing projects
-<img align="right" src="https://raw.githubusercontent.com/Nambers/Nambers/main/github-metrics.svg">
+
+<img align="right" src="https://github.com/Nambers/Nambers/blob/main/github-metrics.svg?raw=true" />
 
 | 💡 Projects | ⭐ Stars | 🛎 Issues|
 |   :-----:   |  :-----:  |  :-----: |
