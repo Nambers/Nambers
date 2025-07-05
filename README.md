@@ -15,8 +15,8 @@ Hi~ o(*￣▽￣*)ブ
 
 | 💡 Projects | ⭐ Stars | 🛎 Issues|
 |   :-----:   |  :-----:  |  :-----: |
-| [MIPS64](https://github.com/Nambers/MIPS64) | N/A | N/A |
-| [ssrJSON](https://github.com/Antares0982/ssrjson-legacy),<br/>a sucessor of<br/>[pyYYJSON](https://github.com/0ph1uch1/pyyjson),<br/>[pyCJson](https://github.com/0ph1uch1/pycjson) | N/A | N/A |
+| [0dMIPS](https://github.com/Nambers/0dMIPS) | N/A | N/A |
+<!-- | [ssrJSON](https://github.com/Antares0982/ssrjson),<br/>a sucessor of<br/>[pyYYJSON](https://github.com/0ph1uch1/pyyjson),<br/>[pyCJson](https://github.com/0ph1uch1/pycjson) | N/A | N/A | -->
 <!-- | [MiraiCP](https://github.com/Nambers/MiraiCP) | ![GitHub stars](https://img.shields.io/github/stars/Nambers/MiraiCP) |  ![GitHub issues](https://img.shields.io/github/issues/Nambers/MiraiCP) | -->
 <!--- [![wakatime](https://wakatime.com/badge/github/Nambers/MiraiCP.svg)](https://wakatime.com/badge/github/Nambers/MiraiCP)(since 2021/9/10) | --->
 
@@ -24,14 +24,16 @@ Hi~ o(*￣▽￣*)ブ
 
 
 ### Common using languages:
-[![C](https://img.shields.io/badge/C-00599C?logo=c&logoColor=white)](#)
-[![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=fff)](#)
-[![C++](https://img.shields.io/badge/C++-%2300599C.svg?logo=c%2B%2B&logoColor=white)](#)
-[![Kotlin](https://img.shields.io/badge/Kotlin-%237F52FF.svg?logo=kotlin&logoColor=white)](#)
+![C](https://img.shields.io/badge/C-00599C?logo=c&logoColor=white)
+![C++](https://img.shields.io/badge/C++-%2300599C.svg?logo=c%2B%2B&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=fff)
+![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=fff)
+![Static Badge](https://img.shields.io/badge/SystemVerilog-6f42c1)
+![Kotlin](https://img.shields.io/badge/Kotlin-%237F52FF.svg?logo=kotlin&logoColor=white)
 
 ### OSs
-[![Arch Linux](https://img.shields.io/badge/ArchLinux%20w/%20Hyprland-1793D1?logo=arch-linux&logoColor=fff)](#)
-	[![Windows](https://custom-icon-badges.demolab.com/badge/Windows11-0078D6?logo=windows11&logoColor=white)](#)
+![Arch Linux](https://img.shields.io/badge/ArchLinux%20w/%20Hyprland-1793D1?logo=arch-linux&logoColor=fff)
+	![Windows](https://custom-icon-badges.demolab.com/badge/Windows11-0078D6?logo=windows11&logoColor=white)
 
 ### Priv Key:
 <p align="center">
