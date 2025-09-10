@@ -15,7 +15,7 @@ Hi~ o(*￣▽￣*)ブ
 
 | 💡 Projects | ⭐ Stars | 🛎 Issues|
 |   :-----:   |  :-----:  |  :-----: |
-| [0dMIPS](https://github.com/Nambers/0dMIPS) | N/A | N/A |
+| [0dMIPS](https://github.com/Nambers/0dMIPS) | ![GitHub stars](https://img.shields.io/github/stars/Nambers/0dMIPS?style=flat) | N/A |
 <!-- | [ssrJSON](https://github.com/Antares0982/ssrjson),<br/>a sucessor of<br/>[pyYYJSON](https://github.com/0ph1uch1/pyyjson),<br/>[pyCJson](https://github.com/0ph1uch1/pycjson) | N/A | N/A | -->
 <!-- | [MiraiCP](https://github.com/Nambers/MiraiCP) | ![GitHub stars](https://img.shields.io/github/stars/Nambers/MiraiCP) |  ![GitHub issues](https://img.shields.io/github/issues/Nambers/MiraiCP) | -->
 <!--- [![wakatime](https://wakatime.com/badge/github/Nambers/MiraiCP.svg)](https://wakatime.com/badge/github/Nambers/MiraiCP)(since 2021/9/10) | --->
