@@ -36,6 +36,9 @@ jobs:
           # config_timezone: CST(CHINA STANDARD TIME)/GMT+8
           config_timezone: America/Chicago
           config_twemoji: yes
+          plugin_followup: yes
+          plugin_followup_archived: yes
+          plugin_followup_sections: repositories
           plugin_habits: yes
           plugin_habits_charts_type: classic
           plugin_habits_days: 14
