@@ -11,7 +11,7 @@ Hi~ o(*￣▽￣*)ブ
 
 ### Focusing projects
 
-<img align="right" src="https://github.com/Nambers/Nambers/blob/main/github-metrics.svg?raw=true" style="max-width:50%;"/>
+<img align="right" src="https://github.com/Nambers/Nambers/blob/main/github-metrics.svg?raw=true" style="width:50%;" />
 
 | 💡 Projects | ⭐ Stars | 🛎 Issues|
 |   :-----:   |  :-----:  |  :-----: |
