@@ -46,4 +46,4 @@ Hi~ o(*￣▽￣*)ブ
 <small style="font-variant: small-caps;">... And, what is this?! "", go fix your font :)</small>
 
 ### CVE list
-[freeRDP/CVE-2026-91959](https://nvd.nist.gov/vuln/detail/CVE-2026-91960) [freeRDP/CVE-2026-91960](https://nvd.nist.gov/vuln/detail/CVE-2026-91960)
+[freeRDP/CVE-2026-91959](https://nvd.nist.gov/vuln/detail/CVE-2026-91959) [freeRDP/CVE-2026-91960](https://nvd.nist.gov/vuln/detail/CVE-2026-91960)
