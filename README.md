@@ -5,7 +5,7 @@ Hi~ o(*￣▽￣*)ブ
 - Pronouns: he / him
 - Website: [ikuyo.dev](https://ikuyo.dev)
 - Avatar: [pixiv#137630130@kieed](https://www.pixiv.net/artworks/137630130)
-- Currently interested in: Cyber-security / hardware / some Math
+- Currently interested in: Cyber-security / hardware
 - [gpg public key](https://ikuyo.dev/files/3R17QU34RCUS.pub) `9730B8A309873B06A6301855B95AA12EA8C8C3AE` *(don't use <https://github.com/Nambers.gpg> it's outdated)*
 ---
 
